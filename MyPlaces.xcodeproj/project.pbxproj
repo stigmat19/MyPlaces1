@@ -13,6 +13,7 @@
 		93931A0926CCFC6C00146303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93931A0826CCFC6C00146303 /* Assets.xcassets */; };
 		93931A0C26CCFC6C00146303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93931A0A26CCFC6C00146303 /* LaunchScreen.storyboard */; };
 		93931A1426CD006000146303 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93931A1326CD006000146303 /* MainViewController.swift */; };
+		93931A1626CD306100146303 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93931A1526CD306100146303 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		93931A0B26CCFC6C00146303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93931A0D26CCFC6C00146303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93931A1326CD006000146303 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		93931A1526CD306100146303 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				93931A0826CCFC6C00146303 /* Assets.xcassets */,
 				93931A0A26CCFC6C00146303 /* LaunchScreen.storyboard */,
 				93931A0D26CCFC6C00146303 /* Info.plist */,
+				93931A1526CD306100146303 /* CustomTableViewCell.swift */,
 			);
 			path = MyPlaces;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				93931A1426CD006000146303 /* MainViewController.swift in Sources */,
 				93931A0026CCFC6A00146303 /* AppDelegate.swift in Sources */,
+				93931A1626CD306100146303 /* CustomTableViewCell.swift in Sources */,
 				93931A0226CCFC6A00146303 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
